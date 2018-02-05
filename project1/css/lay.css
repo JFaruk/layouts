@@ -63,7 +63,8 @@ body{
 }
 
 .Logo-section{
-    margin:25px;
+/*    margin:25px;*/
+    margin-bottom: 20px;
 }
 
 .logo{
@@ -74,7 +75,8 @@ body{
 
 /* navi */
 .NAVIGATION-section-area{
-    margin:25px;
+/*    margin:25px;*/
+    margin-bottom: 20px;
 }
 
 .NAVIGATION-content{
@@ -87,11 +89,13 @@ body{
 /*header */
 
 .header-section{
-    margin:25px;
+/*    margin:25px;*/
+    margin-bottom: 20px;
 }
 
 .header-content{
-    padding:70px 0;
+    padding:45px 0;
+    height: 140px;
     background: #9d9d9d;
     text-align: center;
 }
@@ -100,29 +104,35 @@ body{
 /*side bar */
 
 .sidebar-area{
-    margin: 10px;
+/*    margin: 25px;*/
+    margin-bottom: 20px;
 }
 
 
 .sidebar-content{
-    padding: 180px;
+    padding: 40px;
     background: #9d9d9d;
-    text-align: justify;
+    height: 500px;
+    margin-bottom: 25px;
+    text-align: center;
     
 }
 .body-content{
-    padding: 200px;
+
     background: #9d9d9d;
+   height: 500px;
+    text-align: center;
+    padding: 40px;
 }
 
 
 /*fo0ter*/
 
-.footer-section{
-    margin:20px;
-}
+
+
 
 .footer-header{
-    padding:20px;
+    padding:25px;
+    height: 100px;
     background: #9d9d9d;
 }
